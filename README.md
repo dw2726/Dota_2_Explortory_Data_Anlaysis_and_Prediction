@@ -12,6 +12,8 @@ Codes:
 
 4. SynergySuppressionMatrixCompute.R is used to compute the node file and edge files for the IBM System G Visualizer to run.
 
-Demo Videos: The Youtube websites for the videos:
+Demo Videos: Youtube websites:
+Demo 1: https://youtu.be/ihYsLbnUaSo
+Demo 2: 
 
 
